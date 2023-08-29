@@ -1,0 +1,152 @@
+Uri: http://seph.local/
+File Name: C:\Downloaded Web Sites\seph.local\index.htm
+Content Type: text/html
+
+Uri: http://seph.local/24-2/
+File Name: C:\Downloaded Web Sites\seph.local\24-2\index.htm
+Content Type: text/html
+
+Uri: http://seph.local/comments/feed/
+File Name: C:\Downloaded Web Sites\seph.local\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://seph.local/feed/
+File Name: C:\Downloaded Web Sites\seph.local\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://seph.local/wp-content/themes/astra/assets/css/minified/compatibility/page-builder/bb-plugin.min.css?ver=4.2.2
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\themes\astra\assets\css\minified\compatibility\page-builder\bb-plugin.min.css
+Content Type: text/css
+
+Uri: http://seph.local/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.2.2
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: http://seph.local/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.2.2
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: http://seph.local/wp-content/uploads/2023/08/JasperArt_2023-08-28_00.03.56_upscaled-removebg-preview-1-150x150.png
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\uploads\2023\08\JasperArt_2023-08-28_00.03.56_upscaled-removebg-preview-1-150x150.png
+Content Type: image/png
+
+Uri: http://seph.local/wp-content/uploads/2023/08/JasperArt_2023-08-28_00.03.56_upscaled-removebg-preview-1-300x300.png
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\uploads\2023\08\JasperArt_2023-08-28_00.03.56_upscaled-removebg-preview-1-300x300.png
+Content Type: image/png
+
+Uri: http://seph.local/wp-content/uploads/2023/08/JasperArt_2023-08-28_00.03.56_upscaled-removebg-preview-1.png
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\uploads\2023\08\JasperArt_2023-08-28_00.03.56_upscaled-removebg-preview-1.png
+Content Type: image/png
+
+Uri: http://seph.local/wp-content/uploads/2023/08/JasperArt_2023-08-29_12.45.07_upscaled-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\uploads\2023\08\JasperArt_2023-08-29_12.45.07_upscaled-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://seph.local/wp-content/uploads/2023/08/JasperArt_2023-08-29_12.45.07_upscaled-150x150.jpg
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\uploads\2023\08\JasperArt_2023-08-29_12.45.07_upscaled-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://seph.local/wp-content/uploads/2023/08/JasperArt_2023-08-29_12.45.07_upscaled-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\uploads\2023\08\JasperArt_2023-08-29_12.45.07_upscaled-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://seph.local/wp-content/uploads/2023/08/JasperArt_2023-08-29_12.45.07_upscaled-300x300.jpg
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\uploads\2023\08\JasperArt_2023-08-29_12.45.07_upscaled-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://seph.local/wp-content/uploads/2023/08/JasperArt_2023-08-29_12.45.07_upscaled-768x768.jpg
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\uploads\2023\08\JasperArt_2023-08-29_12.45.07_upscaled-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://seph.local/wp-content/uploads/2023/08/JasperArt_2023-08-29_12.45.07_upscaled.jpg
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\uploads\2023\08\JasperArt_2023-08-29_12.45.07_upscaled.jpg
+Content Type: image/jpeg
+
+Uri: http://seph.local/wp-content/uploads/2023/08/Screenshot-2023-08-29-123643-300x249.jpg
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\uploads\2023\08\Screenshot-2023-08-29-123643-300x249.jpg
+Content Type: image/jpeg
+
+Uri: http://seph.local/wp-content/uploads/2023/08/Screenshot-2023-08-29-123643.jpg
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\uploads\2023\08\Screenshot-2023-08-29-123643.jpg
+Content Type: image/jpeg
+
+Uri: http://seph.local/wp-content/uploads/2023/08/trillion-300x251.jpg
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\uploads\2023\08\trillion-300x251.jpg
+Content Type: image/jpeg
+
+Uri: http://seph.local/wp-content/uploads/2023/08/trillion.jpg
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\uploads\2023\08\trillion.jpg
+Content Type: image/jpeg
+
+Uri: http://seph.local/wp-content/uploads/bb-plugin/cache/10-layout.css?ver=b5c52ec30f04b2d70b27ce7b854275e9
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\uploads\bb-plugin\cache\10-layout.css
+Content Type: text/css
+
+Uri: http://seph.local/wp-content/uploads/bb-plugin/cache/10-layout.js?ver=c3101e32adb26cb2ff1d383baa8be760
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\uploads\bb-plugin\cache\10-layout.js
+Content Type: application/x-javascript
+
+Uri: http://seph.local/wp-content/uploads/bb-plugin/cache/24-layout.css?ver=d8c264e9acb1db4bba7e407d800bd3c5
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\uploads\bb-plugin\cache\24-layout.css
+Content Type: text/css
+
+Uri: http://seph.local/wp-content/uploads/bb-plugin/cache/24-layout.js?ver=104f7185b8203331a7ffab8c4f78b267
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\uploads\bb-plugin\cache\24-layout.js
+Content Type: application/x-javascript
+
+Uri: http://seph.local/wp-includes/css/dist/block-library/style.min.css?ver=6.3
+File Name: C:\Downloaded Web Sites\seph.local\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://seph.local/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\seph.local\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: http://seph.local/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+File Name: C:\Downloaded Web Sites\seph.local\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://seph.local/wp-json/
+File Name: C:\Downloaded Web Sites\seph.local\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://seph.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fseph.local%2F
+File Name: C:\Downloaded Web Sites\seph.local\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://seph.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fseph.local%2F&format=xml
+File Name: C:\Downloaded Web Sites\seph.local\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://seph.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fseph.local%2F24-2%2F
+File Name: C:\Downloaded Web Sites\seph.local\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://seph.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fseph.local%2F24-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\seph.local\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://seph.local/wp-json/wp/v2/pages/10
+File Name: C:\Downloaded Web Sites\seph.local\wp-json\wp\v2\pages\10
+Content Type: application/json
+
+Uri: http://seph.local/wp-json/wp/v2/pages/24
+File Name: C:\Downloaded Web Sites\seph.local\wp-json\wp\v2\pages\24
+Content Type: application/json
+
+Uri: http://seph.local/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\seph.local\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://global.business.uconn.edu/wp-content/uploads/sites/1931/2017/01/Joe-Golec-Working-paper.pdf
+File Name: C:\Downloaded Web Sites\seph.local\wp-content\uploads\sites\1931\2017\01\Joe-Golec-Working-paper.pdf
+Content Type: application/pdf
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\seph.local\xfn\11
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/default.css
+File Name: C:\Downloaded Web Sites\seph.local\xfn\default.css
+Content Type: text/css
+
